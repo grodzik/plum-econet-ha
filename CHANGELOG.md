@@ -2,6 +2,13 @@
 
 
 
+## v0.1.7 (2024-02-16)
+
+### Fix
+
+* fix: Update hacs.json with correct filename ([`ef0fd30`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/ef0fd305000079dba494b3800d643bb9418c5059))
+
+
 ## v0.1.6 (2024-02-16)
 
 ### Fix
