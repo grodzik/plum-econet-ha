@@ -1,0 +1,18 @@
+{
+  "domain": "plum_econet",
+  "name": "Plum Econet",
+  "config_flow": true,
+  "documentation": "Home Assistant integration for Pellet Furnace using plum-econet module",
+  "requirements": [
+    "plum-econet==0.8.1"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@grodzik"
+  ],
+  "iot_class": "local_polling",
+  "version": "0.1.4"
+}

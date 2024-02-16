@@ -2,6 +2,13 @@
 
 
 
+## v0.1.4 (2024-02-16)
+
+### Fix
+
+* fix: Add manifest.json to root dir as well ([`5c986b1`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/5c986b1e8829c8ab1b4e6b834cbede4e5e1cb54a))
+
+
 ## v0.1.3 (2024-02-16)
 
 ### Ci
