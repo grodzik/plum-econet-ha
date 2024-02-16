@@ -2,6 +2,17 @@
 
 
 
+## v0.1.3 (2024-02-16)
+
+### Ci
+
+* ci: Exit if no version change ([`ddce1d4`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/ddce1d4e635b45d04bc05c5e5abe7b93d8feb1e3))
+
+### Fix
+
+* fix: Add content_in_root setting ([`d23f77c`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/d23f77c1a73f1c10fa0ba08f01a1c526de26f6a7))
+
+
 ## v0.1.2 (2024-02-16)
 
 ### Ci

@@ -3,7 +3,8 @@
   "render_readme": "README.md",
   "documentation": "https://gitlab.com/bulgur/plum-econet-ha",
   "issue_tracker": "https://gitlab.com/bulgur/plum-econet-ha/-/issues",
+  "content_in_root": true,
   "zip_release": true,
   "filename": "plum-econet-0.2.0.zip",
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
