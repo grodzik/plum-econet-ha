@@ -2,6 +2,13 @@
 
 
 
+## v0.1.5 (2024-02-16)
+
+### Fix
+
+* fix: Update filename, fix release version ([`6e0cffd`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/6e0cffd69422c913a8c4c89182d12c7259d44778))
+
+
 ## v0.1.4 (2024-02-16)
 
 ### Fix
