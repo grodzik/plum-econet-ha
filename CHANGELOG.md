@@ -2,6 +2,13 @@
 
 
 
+## v0.1.6 (2024-02-16)
+
+### Fix
+
+* fix: Update filename in hacs.json instead of manifest.json ([`fb46950`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/fb46950f33a2cea07d476b9bfdb624aa06750457))
+
+
 ## v0.1.5 (2024-02-16)
 
 ### Fix
