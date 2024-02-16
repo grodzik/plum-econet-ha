@@ -1,0 +1,9 @@
+{
+  "name": "Plum Econect",
+  "render_readme": "README.md",
+  "documentation": "https://gitlab.com/bulgur/plum-econet-ha",
+  "issue_tracker": "https://gitlab.com/bulgur/plum-econet-ha/-/issues",
+  "zip_release": true,
+  "filename": "plum-econet-0.2.0.zip",
+  "version": "0.1.2"
+}
