@@ -2,6 +2,35 @@
 
 
 
+## v0.2.0 (2024-02-28)
+
+### Feature
+
+* feat: Set device class for binary sensors ([`3205194`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/3205194b4060f7cc3952dbeb26e5cff676f854a6))
+
+* feat: Move BinarySensors to it&#39;s own platform to initialize corectly ([`b298f3d`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/b298f3d96e4c89a3363bac653c72582b2d108972))
+
+### Fix
+
+* fix: Remove debug print ([`6dd78e1`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/6dd78e15ca01e91cf5c8d35a8928b193f10d317b))
+
+* fix: Change boiler icon depending on state ([`22a39c2`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/22a39c2d1cd52b4e0e6272942a2e63d375260acf))
+
+* fix: bump plum-econet lib version ([`e9870cd`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/e9870cdad62770d3b44681c85fb933f4a65c4a2f))
+
+### Style
+
+* style: Fix style to please black linter ([`4c49a51`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/4c49a510bf5a3ed1bad665c4f36b181692971f72))
+
+### Unknown
+
+* Merge branch &#39;feature/improvements&#39; into &#39;main&#39;
+
+Improvements
+
+See merge request bulgur/plum-econet-ha!1 ([`4a2f74b`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/4a2f74b142d20e77e433d8f7ea10f8d277ec4f90))
+
+
 ## v0.1.7 (2024-02-16)
 
 ### Fix
