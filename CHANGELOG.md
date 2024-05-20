@@ -2,6 +2,27 @@
 
 
 
+## v0.2.1 (2024-05-20)
+
+### Fix
+
+* fix: Try/Catch TypeError and try to convert to float
+
+Added extra logging ([`5a3b9e4`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/5a3b9e4b5243f126c828deca21dac6d4c1a2577f))
+
+### Style
+
+* style: Reformatted code for black ([`cdd2d66`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/cdd2d66a5b42df543bf188765ef974d19dd9862d))
+
+### Unknown
+
+* Merge branch &#39;feature/Fix_crash_on_wrong_value_type&#39; into &#39;main&#39;
+
+Fix conversion error that occures randomly for some sensors
+
+See merge request bulgur/plum-econet-ha!2 ([`9e9abd9`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/9e9abd99c9bd0bc71848710604b029fa5497a828))
+
+
 ## v0.2.0 (2024-02-28)
 
 ### Feature
