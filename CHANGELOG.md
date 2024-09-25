@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.2.3 (2024-09-25)
+
+### Fix
+
+* fix: Bump plum-econet lib one more time ([`db34e2c`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/db34e2ca2c234220afbd92a0f9c1d0beb30f4d84))
+
 ## v0.2.2 (2024-09-25)
 
 ### Fix
