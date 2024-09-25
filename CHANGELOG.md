@@ -1,6 +1,10 @@
 # CHANGELOG
 
+## v0.2.2 (2024-09-25)
 
+### Fix
+
+* fix: Update upstream plum-econet library version ([`64c52df`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/64c52df0d5bab2d2bba12bda0ec89157cc877c09))
 
 ## v0.2.1 (2024-05-20)
 
@@ -21,7 +25,6 @@ Added extra logging ([`5a3b9e4`](https://gitlab.com/bulgur/plum-econet-ha/-/comm
 Fix conversion error that occures randomly for some sensors
 
 See merge request bulgur/plum-econet-ha!2 ([`9e9abd9`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/9e9abd99c9bd0bc71848710604b029fa5497a828))
-
 
 ## v0.2.0 (2024-02-28)
 
@@ -51,13 +54,11 @@ Improvements
 
 See merge request bulgur/plum-econet-ha!1 ([`4a2f74b`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/4a2f74b142d20e77e433d8f7ea10f8d277ec4f90))
 
-
 ## v0.1.7 (2024-02-16)
 
 ### Fix
 
 * fix: Update hacs.json with correct filename ([`ef0fd30`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/ef0fd305000079dba494b3800d643bb9418c5059))
-
 
 ## v0.1.6 (2024-02-16)
 
@@ -65,20 +66,17 @@ See merge request bulgur/plum-econet-ha!1 ([`4a2f74b`](https://gitlab.com/bulgur
 
 * fix: Update filename in hacs.json instead of manifest.json ([`fb46950`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/fb46950f33a2cea07d476b9bfdb624aa06750457))
 
-
 ## v0.1.5 (2024-02-16)
 
 ### Fix
 
 * fix: Update filename, fix release version ([`6e0cffd`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/6e0cffd69422c913a8c4c89182d12c7259d44778))
 
-
 ## v0.1.4 (2024-02-16)
 
 ### Fix
 
 * fix: Add manifest.json to root dir as well ([`5c986b1`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/5c986b1e8829c8ab1b4e6b834cbede4e5e1cb54a))
-
 
 ## v0.1.3 (2024-02-16)
 
@@ -90,7 +88,6 @@ See merge request bulgur/plum-econet-ha!1 ([`4a2f74b`](https://gitlab.com/bulgur
 
 * fix: Add content_in_root setting ([`d23f77c`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/d23f77c1a73f1c10fa0ba08f01a1c526de26f6a7))
 
-
 ## v0.1.2 (2024-02-16)
 
 ### Ci
@@ -101,20 +98,17 @@ See merge request bulgur/plum-econet-ha!1 ([`4a2f74b`](https://gitlab.com/bulgur
 
 * fix: Install openssh-client ([`002f783`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/002f783a88e1eddc2295618c2270a875d3948e63))
 
-
 ## v0.1.1 (2024-02-16)
 
 ### Fix
 
 * fix: Aparently Variable name matters for github cli ([`e875699`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/e875699cb95066aae872a196030af7a0176322d1))
 
-
 ## v0.1.0 (2024-02-16)
 
 ### Feature
 
 * feat: Update ci, bump version ([`90aa689`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/90aa689f61161f258b65aec605f0562775df9545))
-
 
 ## v0.0.1 (2024-02-16)
 
