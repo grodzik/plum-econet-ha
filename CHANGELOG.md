@@ -1,5 +1,29 @@
 # CHANGELOG
 
+## v0.3.0 (2024-09-29)
+
+### Ci
+
+* ci: Don&#39;t run tests again on default branch ([`0bae9e1`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/0bae9e133a8c62f73cd910659c2c0708215c5403))
+
+### Feature
+
+* feat: Add summer_mode switch ([`4b9ef0f`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/4b9ef0f9512f9e56d3e0b54d2ce39534b161802a))
+
+* feat: Validate URL input ([`e191169`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/e19116948dcb71fd36f1136f5ca775c11fe5b878))
+
+* feat: Include prefix in sensors ([`fb6fa50`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/fb6fa50347364afff55854e8ad8055f3c956e727))
+
+* feat: Add prefix name to WaterHeaters ([`4664339`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/4664339145d342c7c2548af8a26dd52846c120c6))
+
+### Fix
+
+* fix: Update plum-econet dependency version ([`0efa41a`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/0efa41a0a3725ee42b687d6cbe452ede4eeea12f))
+
+### Style
+
+* style: Fix python code style ([`de4799f`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/de4799f6e2a450ecb08ee786469ec4a8c39115b2))
+
 ## v0.2.3 (2024-09-25)
 
 ### Fix
