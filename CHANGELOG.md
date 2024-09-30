@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.3.1 (2024-09-30)
+
+### Fix
+
+* fix: Do proper validation of URL ([`4211358`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/4211358c425500aa3b201a9fd5f8294337d475c1))
+
 ## v0.3.0 (2024-09-29)
 
 ### Ci
