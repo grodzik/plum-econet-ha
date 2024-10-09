@@ -1,6 +1,13 @@
 # CHANGELOG
 
 
+## v0.3.3 (2024-10-09)
+
+### Fixes
+
+* fix: Bump plum-econet to 0.11.1 ([`370e844`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/370e8443306c7578f4dbc5f93217dbdc0915f7cc))
+
+
 ## v0.3.2 (2024-10-09)
 
 ### Fixes
