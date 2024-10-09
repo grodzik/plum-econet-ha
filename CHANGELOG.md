@@ -1,6 +1,13 @@
 # CHANGELOG
 
 
+## v0.4.0 (2024-10-09)
+
+### Features
+
+* feat: Update plum-econet to unify all enums ([`aa94660`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/aa946602dd6d6eb90f4605f357e3b5d56d6558ff))
+
+
 ## v0.3.3 (2024-10-09)
 
 ### Fixes
