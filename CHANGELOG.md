@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.4.2 (2025-01-21)
+
+### Bug Fixes
+
+- Use enum correctly
+  ([`c6c3ff9`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/c6c3ff97035ed74687c7c1d046dc691c87405105))
+
+
 ## v0.4.1 (2025-01-21)
 
 ### Bug Fixes
