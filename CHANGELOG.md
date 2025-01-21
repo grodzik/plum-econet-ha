@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.5.0 (2025-01-21)
+
+### Features
+
+- Use newer plum-econet release
+  ([`7c93b95`](https://gitlab.com/bulgur/plum-econet-ha/-/commit/7c93b9572166a52f5c13a1bed57412841632a9bc))
+
+
 ## v0.4.2 (2025-01-21)
 
 ### Bug Fixes
